@@ -12,6 +12,7 @@
 		56957B761F7509F100D48672 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56957B741F7509F100D48672 /* Main.storyboard */; };
 		56957B781F7509F100D48672 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56957B771F7509F100D48672 /* Assets.xcassets */; };
 		56957B7B1F7509F100D48672 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56957B791F7509F100D48672 /* LaunchScreen.storyboard */; };
+		56957B831F751AD000D48672 /* DefinitianViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56957B821F751AD000D48672 /* DefinitianViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56957B771F7509F100D48672 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56957B7A1F7509F100D48672 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56957B7C1F7509F100D48672 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56957B821F751AD000D48672 /* DefinitianViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitianViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				56957B701F7509F100D48672 /* AppDelegate.swift */,
 				56957B721F7509F100D48672 /* ViewController.swift */,
+				56957B821F751AD000D48672 /* DefinitianViewController.swift */,
 				56957B741F7509F100D48672 /* Main.storyboard */,
 				56957B771F7509F100D48672 /* Assets.xcassets */,
 				56957B791F7509F100D48672 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56957B831F751AD000D48672 /* DefinitianViewController.swift in Sources */,
 				56957B731F7509F100D48672 /* ViewController.swift in Sources */,
 				56957B711F7509F100D48672 /* AppDelegate.swift in Sources */,
 			);
